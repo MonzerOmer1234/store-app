@@ -42,7 +42,7 @@ input.name:focus,
 input.password:focus {
   outline: none;
 }
-input.sign-in {
+.sign-in-route {
   background-color: #89cff0;
   width: 150px;
   height: 40px;
